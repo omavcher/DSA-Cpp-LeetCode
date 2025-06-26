@@ -23,7 +23,7 @@ public:
             if (i > 0 && !current.empty()) {
                 current[0] = toupper(current[0]);
             }
-            tag += current
+            tag += current;
         }
 
         if (tag.size() > 100) {
