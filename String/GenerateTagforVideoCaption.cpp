@@ -29,7 +29,10 @@ public:
         if (tag.size() > 100) {
             tag = tag.substr(0, 100);
         }
-
+        // Ensure the tag does not end with a space
+        if (!tag.empty() && tag.back() == ' ') {
+            tag.pop_back();
+        }
         return tag;
     }
 };
