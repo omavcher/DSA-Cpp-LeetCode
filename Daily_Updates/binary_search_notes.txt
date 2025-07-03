@@ -1,3 +1,0 @@
-Notes on binary_search
-Generated on 2025-07-03 23:48:42
-Key points about binary_search.

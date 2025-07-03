@@ -1,3 +1,0 @@
-Notes on greedy_algorithms
-Generated on 2025-07-03 23:48:42
-Key points about greedy_algorithms.
