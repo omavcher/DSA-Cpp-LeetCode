@@ -1,3 +1,0 @@
-Notes on bit_manipulation
-Generated on 2025-07-03 23:49:58
-Key points about bit_manipulation.
