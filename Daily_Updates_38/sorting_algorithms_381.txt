@@ -1,3 +1,0 @@
-Commit #38
-Notes on sorting_algorithms
-Generated at 2025-07-30 18:14:13.358953
